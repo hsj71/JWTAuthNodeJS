@@ -158,15 +158,15 @@ Use HTTPS.
 Actual screenshots of each page.
 
 <p align="center">
-  <img src="https://github.com/hsj71/EncryptedPasswordMongoDB/blob/main/Screenshot%20(770).png" alt="View Merged PDFs" width="700"/>
+  <img src="https://github.com/hsj71/JWTAuthNodeJS/blob/main/Screenshot%20(770).png" alt="View Merged PDFs" width="700"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/hsj71/EncryptedPasswordMongoDB/blob/main/Screenshot%20(771).png" alt="View Merged PDFs" width="700"/>
+  <img src="https://github.com/hsj71/JWTAuthNodeJS/blob/main/Screenshot%20(771).png" alt="View Merged PDFs" width="700"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/hsj71/EncryptedPasswordMongoDB/blob/main/Screenshot%20(772).png" alt="View Merged PDFs" width="700"/>
+  <img src="https://github.com/hsj71/JWTAuthNodeJS/blob/main/Screenshot%20(772).png" alt="View Merged PDFs" width="700"/>
 </p>
 
 --- 
